@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<title>ionicons-v5-n</title>
+<path fill="none" stroke="#FFFFFF" stroke-width="32" stroke-linejoin="round" d="M368,415.86V72c-0.039-13.239-10.762-23.961-24-24
+	H72c-13.239,0.039-23.961,10.761-24,24v352c0.066,22.064,17.936,39.935,40,40h328"/>
+<path fill="none" stroke="#FFFFFF" stroke-width="32" stroke-linejoin="round" d="M416,464L416,464c-26.51,0-48-21.49-48-48V128h72
+	c13.255,0,24,10.745,24,24v264C464,442.51,442.51,464,416,464z"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="32" stroke-linecap="round" stroke-linejoin="round" x1="240" y1="128" x2="304" y2="128"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="32" stroke-linecap="round" stroke-linejoin="round" x1="240" y1="192" x2="304" y2="192"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="32" stroke-linecap="round" stroke-linejoin="round" x1="112" y1="256" x2="304" y2="256"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="32" stroke-linecap="round" stroke-linejoin="round" x1="112" y1="320" x2="304" y2="320"/>
+<line fill="none" stroke="#FFFFFF" stroke-width="32" stroke-linecap="round" stroke-linejoin="round" x1="112" y1="384" x2="304" y2="384"/>
+<path fill="#FFFFFF" d="M176,208h-64c-8.836,0-16-7.164-16-16v-64c0-8.836,7.164-16,16-16h64c8.836,0,16,7.164,16,16v64
+	C192,200.836,184.836,208,176,208z"/>
+</svg>
